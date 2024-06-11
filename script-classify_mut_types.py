@@ -17,7 +17,7 @@ This script was developed as part of a research project on preventive drug desig
 The analysis involves: 1) creating mutant strains of every residue in the protein's drug binding site through DMS, 
 2) measure how the mutant strains react to the drug(s) compared to a WT strain (degree of resistance/tolerance to a drug), 
 3) Classify resistant mutations based on the amino acid properties of the WT and mutant residue, 
-4) aggregate and plot the dataframe to a heatmap for easy visulazation of drug-specific resistance mechanims.
+4) aggregate and plot the dataframe to a heatmap for easy visualization of drug-specific resistance mechanism.
 
 Useful  for analyzing large datasets of single point mutations in a WT sequence based on a measured feature (resistance/tolerance in this case) and aa properties.
 
